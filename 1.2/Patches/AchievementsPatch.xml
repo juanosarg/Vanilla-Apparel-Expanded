@@ -43,6 +43,31 @@
 							<points>15</points>
 						</AchievementsExpanded.AchievementDef>
 						
+						<AchievementsExpanded.AchievementDef >
+							<defName>VAppE_AchievementMultipleItemsCrafted</defName>
+							<label>Boot camp, two</label>
+							<description>Craft two boots and two shoes</description>
+							
+							<tracker Class="AchievementsExpanded.ItemCraftTrackerMultipleVanillaApparel">
+								<thingList>
+								
+									<li>
+										<key>VAE_Footwear_Boots</key>
+										<value>2</value>
+									</li>
+									<li>
+										<key>VAE_Footwear_Shoes</key>
+										<value>2</value>
+									</li>
+									
+								</thingList>
+								
+							</tracker>
+
+							<texPath>Achievements/HumanLeatherHat</texPath>
+							<points>15</points>
+						</AchievementsExpanded.AchievementDef>
+						
 						
 					</value>
 				</li>

@@ -301,14 +301,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Achievements\ItemCraftTrackerMultipleVanillaApparel.cs" />
     <Compile Include="Achievements\ItemTrackerMultipleVanillaApparel.cs" />
+    <Compile Include="Harmony\VanillaApparel_QuestManager_Notify_ThingsProduced_Patch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Harmony\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
