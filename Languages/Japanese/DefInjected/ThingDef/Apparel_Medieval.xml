@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tunic -->
+
+  <VAE_Apparel_Tunic.label>チュニック</VAE_Apparel_Tunic.label>
+  <VAE_Apparel_Tunic.description>チュニックは通常のシャツより少し厚手なので、寒い気候での着用に最適です。</VAE_Apparel_Tunic.description>
+
+
+  <!-- Blouse -->
+
+  <VAE_Apparel_Blouse.label>ブラウス</VAE_Apparel_Blouse.label>
+  <VAE_Apparel_Blouse.description>非常に軽くて薄いブラウスは、暑い気候で着るのに最適です。</VAE_Apparel_Blouse.description>
+
+
+  <!-- Apron -->
+
+  <VAE_Apparel_Apron.label>エプロン</VAE_Apparel_Apron.label>
+  <VAE_Apparel_Apron.description>脚、腰、胸を覆う革か布製のエプロンです。\n\nこのようなエプロンは、便利なポケットが付いて丈夫なことから、職人や医師、料理人がよく着ています。</VAE_Apparel_Apron.description>
+
+
+  <!-- Cape -->
+
+  <VAE_Apparel_Cape.label>クローク</VAE_Apparel_Cape.label>
+  <VAE_Apparel_Cape.description>着ている者の首周りにゆったりとしたコートを止める短いマントです。クロークは戦場で勇気ある戦士のお守りとして機能すると考えられています。</VAE_Apparel_Cape.description>
+
+
+  <!-- Trapper Hat -->
+
+  <VAE_Headgear_TrapperHat.label>トラッパーハット</VAE_Headgear_TrapperHat.label>
+  <VAE_Headgear_TrapperHat.description>耳覆いが付いた非常に暖かい帽子で、冬の厳寒期に屋外活動を長時間する場合に最適です。</VAE_Headgear_TrapperHat.description>
+
+
+  <!-- Summer Hat -->
+
+  <VAE_Headgear_SummerHat.label>サマーハット</VAE_Headgear_SummerHat.label>
+  <VAE_Headgear_SummerHat.description>夏の暑い日差しに対すて頭を保護する機能があるワラや布製の軽い帽子(笠)です。</VAE_Headgear_SummerHat.description>
+
+</LanguageData>

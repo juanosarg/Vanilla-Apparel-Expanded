@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAE_CasualWear.label>普段着</VAE_CasualWear.label>
+  <VAE_CasualWear.description>どんな生活場面でも役に立つ便利な機能を備えた普段着を作成できます。</VAE_CasualWear.description>
+
+  <VAE_FormalWear.label>礼服</VAE_FormalWear.label>
+  <VAE_FormalWear.description>スーツと礼服を作成できます。</VAE_FormalWear.description>
+
+  <VAE_WorkAttire.label>仕事着</VAE_WorkAttire.label>
+  <VAE_WorkAttire.description>どんな仕事にも対応できる快適で機能的な仕事着を作成できます。</VAE_WorkAttire.description>
+
+  <VAE_SterileAttire.label>無菌服</VAE_SterileAttire.label>
+  <VAE_SterileAttire.description>医師や科学者が着る殺菌処理された無菌服を作成できます。</VAE_SterileAttire.description>
+
+  <VAE_MilitaryClothing.label>軍服</VAE_MilitaryClothing.label>
+  <VAE_MilitaryClothing.description>兵士を守るために風雨に耐えられる軍服を作成できます。</VAE_MilitaryClothing.description>
+
+</LanguageData>

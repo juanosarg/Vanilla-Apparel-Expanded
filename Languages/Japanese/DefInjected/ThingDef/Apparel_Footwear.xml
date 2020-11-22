@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Boots -->
+
+  <VAE_Footwear_Boots.label>ブーツ</VAE_Footwear_Boots.label>
+  <VAE_Footwear_Boots.description>簡単な作りの両足用のブーツです。</VAE_Footwear_Boots.description>
+
+
+  <!-- Shoes -->
+
+  <VAE_Footwear_Shoes.label>シューズ</VAE_Footwear_Shoes.label>
+  <VAE_Footwear_Shoes.description>装飾された両足用の皮靴です。</VAE_Footwear_Shoes.description>
+
+</LanguageData>

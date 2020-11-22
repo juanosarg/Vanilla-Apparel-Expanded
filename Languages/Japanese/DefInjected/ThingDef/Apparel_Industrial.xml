@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Casual T-Shirt -->
+
+  <VAE_Apparel_CasualTShirt.label>カジュアルシャツ</VAE_Apparel_CasualTShirt.label>
+  <VAE_Apparel_CasualTShirt.description>いかしたステッカーが印刷されたカジュアルなTシャツです。</VAE_Apparel_CasualTShirt.description>
+
+
+  <!-- Hoodie -->
+
+  <VAE_Apparel_Hoodie.label>フード付きパーカー</VAE_Apparel_Hoodie.label>
+  <VAE_Apparel_Hoodie.description>着ている者の動きを邪魔しない暖かなフード付きのパーカーです。</VAE_Apparel_Hoodie.description>
+
+
+  <!-- Shorts -->
+
+  <VAE_Apparel_Shorts.label>スパッツ</VAE_Apparel_Shorts.label>
+  <VAE_Apparel_Shorts.description>暑い夏の日にぴったりのショートパンツです。</VAE_Apparel_Shorts.description>
+
+
+  <!-- Skirt -->
+
+  <VAE_Apparel_Skirt.label>ショートスカート</VAE_Apparel_Skirt.label>
+  <VAE_Apparel_Skirt.description>丈の短いショートスカートです。</VAE_Apparel_Skirt.description>
+
+
+  <!-- Shirt and Tie -->
+
+  <VAE_Apparel_ShirtandTie.label>タイ付きシャツ</VAE_Apparel_ShirtandTie.label>
+  <VAE_Apparel_ShirtandTie.description>ボタンとネクタイが付いた素敵な襟付きシャツです。</VAE_Apparel_ShirtandTie.description>
+
+
+  <!-- Suit Jacket -->
+
+  <VAE_Apparel_SuitJacket.label>ジャケットスーツ</VAE_Apparel_SuitJacket.label>
+  <VAE_Apparel_SuitJacket.description>かっこいいスーツ用のジャケットです。</VAE_Apparel_SuitJacket.description>
+
+
+  <!-- Trousers -->
+
+  <VAE_Apparel_Trousers.label>男物ズボン</VAE_Apparel_Trousers.label>
+  <VAE_Apparel_Trousers.description>素敵なスーツ用のスボンです。</VAE_Apparel_Trousers.description>
+
+
+  <!-- Fedora -->
+
+  <VAE_Headgear_Fedora.label>フェドラ</VAE_Headgear_Fedora.label>
+  <VAE_Headgear_Fedora.description>柔らかいつばと中央部分に縦に折り込まれたくぼみが付いた素敵な中折れ帽子です。</VAE_Headgear_Fedora.description>
+
+
+  <!-- Overalls -->
+
+  <VAE_Apparel_Overalls.label>オーバーオール</VAE_Apparel_Overalls.label>
+  <VAE_Apparel_Overalls.description>屋外作業に最適なビブとブレースで構成されたオーバーオールです。</VAE_Apparel_Overalls.description>
+
+
+  <!-- Fleece Shirt -->
+
+  <VAE_Apparel_FleeceShirt.label>フリースシャツ</VAE_Apparel_FleeceShirt.label>
+  <VAE_Apparel_FleeceShirt.description>野外作業に最適な、柔らかいメッシュ生地で通気性のあるシャツです。</VAE_Apparel_FleeceShirt.description>
+
+
+  <!-- Jeans -->
+
+  <VAE_Apparel_Jeans.label>ジーンズ</VAE_Apparel_Jeans.label>
+  <VAE_Apparel_Jeans.description>傷や寒さにある程度の強さを確保できる十分な厚さがあるジーンズ生地でできたスボンです。</VAE_Apparel_Jeans.description>
+
+
+  <!-- Chefs Uniform -->
+
+  <VAE_Apparel_ChefsUniform.label>コックコート</VAE_Apparel_ChefsUniform.label>
+  <VAE_Apparel_ChefsUniform.description>厚い布製のコートは、コンロの熱や沸騰した液体が飛び散っても安全を確保します。</VAE_Apparel_ChefsUniform.description>
+
+
+  <!-- Military Jacket -->
+
+  <VAE_Apparel_MilitaryJacket.label>軍服(礼装)</VAE_Apparel_MilitaryJacket.label>
+  <VAE_Apparel_MilitaryJacket.description>軍関係のセレモニーや記念レセプション、祝賀などで着られる厚手の生地でできた軍人用の礼服です。階級章や勲章メダル(または記章リボン)、従軍記章リボンが付けられています。それらは勇気と名誉の象徴と考えられています。</VAE_Apparel_MilitaryJacket.description>
+
+
+  <!-- Military Uniform -->
+
+  <VAE_Apparel_MilitaryUniform.label>迷彩服</VAE_Apparel_MilitaryUniform.label>
+  <VAE_Apparel_MilitaryUniform.description>ミリタリー迷彩柄の厚い生地で全身を守る服です。</VAE_Apparel_MilitaryUniform.description>
+
+
+  <!-- Builders Jacket -->
+
+  <VAE_Apparel_BuildersJacket.label>工事用ジャケット</VAE_Apparel_BuildersJacket.label>
+  <VAE_Apparel_BuildersJacket.description>光を反射するリボンが付いて、どんな場所でも簡単に認識できる蛍光色のジャケットです。\n\nほとんどの工事作業員は、個人用の安全装備としてこれらを着用します。</VAE_Apparel_BuildersJacket.description>
+
+
+  <!-- Doctor Scrubs -->
+
+  <VAE_Apparel_DoctorScrubs.label>手術服</VAE_Apparel_DoctorScrubs.label>
+  <VAE_Apparel_DoctorScrubs.description>外科医や看護師、また患者の治療に関係する他の医療スタッフが着用する衛生的な服です。シンプルな構造で洗濯が容易で、破れたり汚れた場合は交換できるように生産コストが安価になるように設計されています。</VAE_Apparel_DoctorScrubs.description>
+
+
+  <!-- Lab Coat -->
+
+  <VAE_Apparel_LabCoat.label>白衣</VAE_Apparel_LabCoat.label>
+  <VAE_Apparel_LabCoat.description>研究室で取り扱われる危険な物質から身体を保護するために着る薄いコートです。</VAE_Apparel_LabCoat.description>
+
+
+  <!-- Tank Top -->
+
+  <VAE_Apparel_TankTop.label>タンクトップ</VAE_Apparel_TankTop.label>
+  <VAE_Apparel_TankTop.description>長時間の運動中に最適なノースリーブのTシャツです。</VAE_Apparel_TankTop.description>
+
+
+  <!-- Sheriff Shirt -->
+
+  <VAE_Apparel_SheriffShirt.label>保安官シャツ</VAE_Apparel_SheriffShirt.label>
+  <VAE_Apparel_SheriffShirt.description>胸に保安官の星型バッジが付いた、制服で厚手のボタン付きダウンシャツです。着る者に誇りと達成感を与えます。</VAE_Apparel_SheriffShirt.description>
+
+
+  <!-- Jumpsuit -->
+
+  <VAE_Apparel_Jumpsuit.label>つなぎ服</VAE_Apparel_Jumpsuit.label>
+  <VAE_Apparel_Jumpsuit.description>厚い生地か革で作られた全身用のつなぎ服です。一般的な作業に最適で身体を保護します。</VAE_Apparel_Jumpsuit.description>
+
+</LanguageData>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ResearchProjectDef>
+		<defName>VAE_CasualWear</defName>
+		<label>casual wear</label>
+		<description>Craft casual wear with handy features for any life situation.</description> <!-- adjust text -->
+		<baseCost>600</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>ComplexClothing</li>
+		</prerequisites>
+		<researchViewX>0</researchViewX>
+		<researchViewY>5</researchViewY>
+	</ResearchProjectDef>
+	
+	<ResearchProjectDef>
+		<defName>VAE_FormalWear</defName>
+		<label>formal wear</label>
+		<description>Craft suits and formal wear.</description>
+		<baseCost>600</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>VAE_CasualWear</li>
+		</prerequisites>
+		<researchViewX>1</researchViewX>
+		<researchViewY>5</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>VAE_WorkAttire</defName>
+		<label>work attire</label>
+		<description>Craft comfortable and and functional attire for any kind of work.</description>
+		<baseCost>1000</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>ComplexClothing</li>
+		</prerequisites>
+		<researchViewX>1</researchViewX>
+		<researchViewY>3.75</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>VAE_SterileAttire</defName>
+		<label>sterile attire</label>
+		<description>Craft sterile attire used by doctors and scientists.</description>
+		<baseCost>1000</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>ComplexClothing</li>
+		</prerequisites>
+		<researchViewX>1</researchViewX>
+		<researchViewY>4.5</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>VAE_MilitaryClothing</defName>
+		<label>military clothing</label>
+		<description>Craft weatherproof outfits to protect your soldiers.</description>
+		<baseCost>1000</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>VAE_WorkAttire</li>
+			<li>VAE_SterileAttire</li>
+		</prerequisites>
+		<researchViewX>2</researchViewX>
+		<researchViewY>4.5</researchViewY>
+	</ResearchProjectDef>
+
+</Defs>

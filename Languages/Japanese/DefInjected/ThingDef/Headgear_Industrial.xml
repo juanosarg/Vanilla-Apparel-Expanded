@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Scarf -->
+
+  <VAE_Headgear_Scarf.label>スカーフ</VAE_Headgear_Scarf.label>
+  <VAE_Headgear_Scarf.description>首を寒さから守る、暖かくて長いスカーフです。</VAE_Headgear_Scarf.description>
+
+
+  <!-- Beret -->
+
+  <VAE_Headgear_Beret.label>軍用ベレー帽</VAE_Headgear_Beret.label>
+  <VAE_Headgear_Beret.description>軟らかくて、鍔や縁のない丸く平らな帽子です。勇気の象徴として軍隊がよく着用します。</VAE_Headgear_Beret.description>
+
+
+  <!-- Hardhat -->
+
+  <VAE_Headgear_Hardhat.label>安全ヘルメット</VAE_Headgear_Hardhat.label>
+  <VAE_Headgear_Hardhat.description>作業現場でよく使用されるヘルメットの一種です。打撲ダメージに対して高い保護力を持ちます。</VAE_Headgear_Hardhat.description>
+
+
+  <!-- Surgical Mask -->
+
+  <VAE_Headgear_SurgicalMask.label>手術用マスク</VAE_Headgear_SurgicalMask.label>
+  <VAE_Headgear_SurgicalMask.description>外科医や看護師、また患者の治療に関係する他の医療スタッフが着用する衛生的な衛生用マスクです。</VAE_Headgear_SurgicalMask.description>
+
+
+  <!-- Gas Mask -->
+
+  <VAE_Headgear_GasMask.label>ガスマスク</VAE_Headgear_GasMask.label>
+  <VAE_Headgear_GasMask.description>空気ろ過システムを備えた全面装着型の基本的なガスマスクで、ある程度の毒性に対する免疫を提供します。</VAE_Headgear_GasMask.description>
+
+
+  <!-- Baseball Cap -->
+
+  <VAE_Headgear_BaseballCap.label>野球帽</VAE_Headgear_BaseballCap.label>
+  <VAE_Headgear_BaseballCap.description>丸いワッペンと前を保護する硬い鍔(ピーク)を備えたソフトキャップの一種です。</VAE_Headgear_BaseballCap.description>
+
+
+  <!-- Sunglasses -->
+
+  <VAE_Headgear_Sunglasses.label>サングラス</VAE_Headgear_Sunglasses.label>
+  <VAE_Headgear_Sunglasses.description>危険な紫外線から着用者の眼を守るサングラスです。多くの場合、付けている姿が「カッコイイ」と思っています。</VAE_Headgear_Sunglasses.description>
+
+
+  <!-- Glasses -->
+
+  <VAE_Headgear_Glasses.label>メガネ</VAE_Headgear_Glasses.label>
+  <VAE_Headgear_Glasses.description>視力矯正用のメガネです。着用者にある程度の精神的な抵抗力を与えます。</VAE_Headgear_Glasses.description>
+
+
+  <!-- Chefs Toque -->
+
+  <VAE_Headgear_ChefsToque.label>コック帽</VAE_Headgear_ChefsToque.label>
+  <VAE_Headgear_ChefsToque.description>通常、シェフが被る背が高くて丸い折りひだ(プリーツ)の付いた帽子です。</VAE_Headgear_ChefsToque.description>
+
+</LanguageData>

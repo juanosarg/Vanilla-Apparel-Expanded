@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pelt Coat -->
+
+  <VAE_Apparel_PeltCoat.label>毛皮コート</VAE_Apparel_PeltCoat.label>
+  <VAE_Apparel_PeltCoat.description>動物の毛皮で断熱できる厚手のコートで、暖かさと防御力を提供します。</VAE_Apparel_PeltCoat.description>
+
+
+  <!-- Tribal Poncho -->
+
+  <VAE_Apparel_TribalPoncho.label>部族ポンチョ</VAE_Apparel_TribalPoncho.label>
+  <VAE_Apparel_TribalPoncho.description>新石器時代の道具を使って作られたポンチョです。原始的に見えますが、着用者を体温を保護するのに効果的です。</VAE_Apparel_TribalPoncho.description>
+
+
+  <!-- Tribal Kilt -->
+
+  <VAE_Apparel_TribalKilt.label>部族キルト</VAE_Apparel_TribalKilt.label>
+  <VAE_Apparel_TribalKilt.description>新石器時代の道具を使って作られたキルト服です。原始的に見えますが、着用者の体温を保護するのに効果的です。</VAE_Apparel_TribalKilt.description>
+
+
+  <!-- Hood -->
+
+  <VAE_Headgear_Hood.label>フードキャップ</VAE_Headgear_Hood.label>
+  <VAE_Headgear_Hood.description>強化した布や革で作られた分厚いフードです。寒さや怪我に対する平均的な防御を提供します。</VAE_Headgear_Hood.description>
+
+</LanguageData>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ResearchProjectDef>
+		<defName>VAE_CasualWear</defName>
+		<label>casual wear</label>
+		<description>Craft casual wear with handy features for any life situation.</description> <!-- adjust text -->
+		<baseCost>600</baseCost>
+		<tab>VanillaExpanded</tab>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>ComplexClothing</li>
+		</prerequisites>
+  <researchViewX>3.00</researchViewX>
+  <researchViewY>1.35</researchViewY>
+	</ResearchProjectDef>
+	
+	<ResearchProjectDef>
+		<defName>VAE_FormalWear</defName>
+		<label>formal wear</label>
+		<description>Craft suits and formal wear.</description>
+		<baseCost>600</baseCost>
+		<tab>VanillaExpanded</tab>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>VAE_CasualWear</li>
+		</prerequisites>
+  <researchViewX>4.00</researchViewX>
+  <researchViewY>1.35</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>VAE_WorkAttire</defName>
+		<label>work attire</label>
+		<description>Craft comfortable and and functional attire for any kind of work.</description>
+		<baseCost>1000</baseCost>
+		<tab>VanillaExpanded</tab>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>ComplexClothing</li>
+		</prerequisites>
+  <researchViewX>3.00</researchViewX>
+  <researchViewY>2.55</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>VAE_SterileAttire</defName>
+		<label>sterile attire</label>
+		<description>Craft sterile attire used by doctors and scientists.</description>
+		<baseCost>1000</baseCost>
+		<tab>VanillaExpanded</tab>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>ComplexClothing</li>
+		</prerequisites>
+  <researchViewX>4.00</researchViewX>
+  <researchViewY>1.95</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>VAE_MilitaryClothing</defName>
+		<label>military clothing</label>
+		<description>Craft weatherproof outfits to protect your soldiers.</description>
+		<baseCost>1000</baseCost>
+		<tab>VanillaExpanded</tab>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>VAE_WorkAttire</li>
+			<li>VAE_SterileAttire</li>
+		</prerequisites>
+  <researchViewX>3.00</researchViewX>
+  <researchViewY>1.95</researchViewY>
+	</ResearchProjectDef>
+
+</Defs>
