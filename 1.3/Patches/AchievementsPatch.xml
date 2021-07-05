@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Vanilla Achievements Expanded</li>
+		</mods>
+
+		<match Class="PatchOperationSequence">
+			<operations>
+
+
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs</xpath>
+					<value>
+
+						
+					
+						
+						<AchievementsExpanded.AchievementDef >
+							<defName>VAppE_AchievementMultipleItems</defName>
+							<label>Boot camp</label>
+							<description>Get two boots and two shoes</description>
+							
+							<tracker Class="AchievementsExpanded.ItemTrackerMultipleVanillaApparel">
+								<thingList>
+								
+									<li>
+										<key>VAE_Footwear_Boots</key>
+										<value>2</value>
+									</li>
+									<li>
+										<key>VAE_Footwear_Shoes</key>
+										<value>2</value>
+									</li>
+									
+								</thingList>
+								
+							</tracker>
+
+							<texPath>Achievements/HumanLeatherHat</texPath>
+							<points>15</points>
+						</AchievementsExpanded.AchievementDef>
+						
+						<AchievementsExpanded.AchievementDef >
+							<defName>VAppE_AchievementMultipleItemsCrafted</defName>
+							<label>Boot camp, two</label>
+							<description>Craft two boots and two shoes</description>
+							
+							<tracker Class="AchievementsExpanded.ItemCraftTrackerMultipleVanillaApparel">
+								<thingList>
+								
+									<li>
+										<key>VAE_Footwear_Boots</key>
+										<value>2</value>
+									</li>
+									<li>
+										<key>VAE_Footwear_Shoes</key>
+										<value>2</value>
+									</li>
+									
+								</thingList>
+								
+							</tracker>
+
+							<texPath>Achievements/HumanLeatherHat</texPath>
+							<points>15</points>
+						</AchievementsExpanded.AchievementDef>
+						
+						
+					</value>
+				</li>
+
+
+			</operations>
+		</match>
+	</Operation>
+
+
+</Patch>
+
