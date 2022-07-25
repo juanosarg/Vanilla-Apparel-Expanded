@@ -737,7 +737,7 @@
         <generateCommonality>0.1</generateCommonality>
 		<costStuffCount>80</costStuffCount>
 		<costList>
-			<Gold>5</Gold>
+			<Gold>2</Gold>
 		</costList>
 		<stuffCategories>
 			<li>Fabric</li>

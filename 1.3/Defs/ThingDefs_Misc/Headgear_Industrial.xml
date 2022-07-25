@@ -389,9 +389,9 @@
 			</bodyPartGroups>
 			<wornGraphicPath>Things/Headgear/Sunglasses/Sunglasses</wornGraphicPath>
 			<hatRenderedFrontOfFace>true</hatRenderedFrontOfFace>
-			<layers>
-				<li>Overhead</li>
-			</layers>
+      <layers>
+        <li>EyeCover</li>
+      </layers>
 			<tags>
 				<li>IndustrialBasic</li>
 			</tags>
@@ -449,9 +449,9 @@
 			</bodyPartGroups>
 			<wornGraphicPath>Things/Headgear/Glasses/Glasses</wornGraphicPath>
 			<hatRenderedFrontOfFace>true</hatRenderedFrontOfFace>
-			<layers>
-				<li>Overhead</li>
-			</layers>
+      <layers>
+        <li>EyeCover</li>
+      </layers>
 			<tags>
 				<li>IndustrialBasic</li>
 			</tags>
